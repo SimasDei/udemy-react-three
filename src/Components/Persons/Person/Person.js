@@ -2,6 +2,10 @@ import React, {Component} from 'react';
 import classes from './Person.css';
 
 class Person extends Component {
+  componentWillReceiveProps(nextProps) {
+    console.log('UPDATE persons.js inside will Recieve props', nextProps)
+  }
+
   render() {
     return (
       <div className={classes.Person}>
