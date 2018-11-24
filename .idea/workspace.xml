@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2650adee-75c7-4e5f-a474-0b5a5308cba4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Persons/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Persons/Person/Person.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Persons/Persons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Persons/Persons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="2650adee-75c7-4e5f-a474-0b5a5308cba4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,8 +104,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -215,7 +210,7 @@
       <workItem from="1542880479712" duration="5366000" />
       <workItem from="1542886989190" duration="5450000" />
       <workItem from="1542903142893" duration="45000" />
-      <workItem from="1542961574596" duration="2493000" />
+      <workItem from="1542961574596" duration="3184000" />
     </task>
     <task id="LOCAL-00001" summary="use css Modules">
       <created>1542885028503</created>
@@ -231,17 +226,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542889453119</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Lifecycles">
+      <created>1542964322178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542964322178</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13354000" />
+    <option name="totallyTimeSpent" value="14045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="781" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24896266" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24896266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -270,7 +272,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="use css Modules" />
     <MESSAGE value="Divide project into components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Divide project into components" />
+    <MESSAGE value="Add Lifecycles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Lifecycles" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
